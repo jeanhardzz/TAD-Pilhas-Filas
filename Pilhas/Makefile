@@ -1,0 +1,1 @@
+g++ tipoitem.cpp tipocelula.cpp pilha.h pilha-arranjo.cpp pilha-encadeada.cpp main.cpp -o main 

@@ -1,0 +1,1 @@
+g++ tipoitem.cpp tipocelula.cpp fila.h fila-arranjo.cpp fila-encadeada.cpp main.cpp -o main 
