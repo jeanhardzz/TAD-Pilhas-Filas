@@ -18,5 +18,5 @@ TipoChave TipoItem::GetChave(){
 }
 
 void TipoItem::Imprime(){
-    std::cout << chave;
+    std::cout << chave<<std::endl;
 }
