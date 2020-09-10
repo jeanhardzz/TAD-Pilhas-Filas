@@ -14,6 +14,8 @@ class PilhaEncadeada : public Pilha{
         void Limpa();
     private:
         TipoCelula* topo;
+    protected:
+        int tamanho;
 };
 
 #endif

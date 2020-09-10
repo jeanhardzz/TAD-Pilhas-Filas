@@ -2,6 +2,7 @@
 
 PilhaEncadeada::PilhaEncadeada() : Pilha(){
     topo = 0;
+    tamanho = 0;
 }
 
 PilhaEncadeada::~PilhaEncadeada(){
